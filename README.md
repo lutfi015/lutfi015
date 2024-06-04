@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lutfi farhan prayoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lutfi farhan prayoga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lutfifarhanprayoga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lutfi farhan prayoga" height="30" width="40" /></a>
 <a href="https://instagram.com/lutxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lutxd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lutxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lutxd" height="30" width="40" /></a>
 <a href="https://discord.gg/lutxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lutxd" height="30" width="40" /></a>
