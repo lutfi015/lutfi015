@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Framework, Cloud**
 
-- 📫 How to reach me **https://www.linkedin.com/in/lutfi-farhan-prayoga-1773b41a3/**
+- 📫 How to reach me **linkedin lutfi**
 
 - ⚡ Fun fact **i think im funny**
 
