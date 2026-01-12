@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lutfi Farhan Prayoga</h1>
 <h3 align="center">A man who love tahu tek</h3>
 
-- 🔭 I’m currently working on **Project bangkit as Cloud computing enginer**
+- 🔭 Bangkit Academy 2024 Cloud Computing Cohort Project bangkit as Cloud computing enginer**
 
 - 🌱 I’m currently learning **Framework, Cloud**
 
-- ⚡Undergraduate Information System Universitas Airlangga | Bangkit Academy 2024 Cloud Computing Cohort | Clothing brand manager | Clothing brand owner**
+- ⚡Undergraduate Information System Universitas Airlangga | Clothing brand manager | Clothing brand owner**
   
 - 📫 How to reach me **https://www.linkedin.com/in/lutfifarhanprayoga/**
 
