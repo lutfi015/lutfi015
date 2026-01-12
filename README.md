@@ -5,9 +5,11 @@
 
 - 🌱 I’m currently learning **Framework, Cloud**
 
+- ⚡Undergraduate Information System Universitas Airlangga | Bangkit Academy 2024 Cloud Computing Cohort | Clothing brand manager | Clothing brand owner**
+- 
 - 📫 How to reach me **https://www.linkedin.com/in/lutfifarhanprayoga/**
 
-- ⚡Undergraduate Information System Universitas Airlangga | Bangkit Academy 2024 Cloud Computing Cohort | Clothing brand manager | Clothing brand owner**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
