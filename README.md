@@ -64,9 +64,3 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lutfi015&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfi015&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="300" />
-</p>
